@@ -1,0 +1,1 @@
+This is a simple json structure that you can use to create an svg image of the US.
